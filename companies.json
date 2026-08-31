@@ -8,7 +8,8 @@
   {
     "name": "Jacobs",
     "url": "https://careers.jacobs.com/en_US/careers/EarlyCareers",
-    "js": true
+    "js": true,
+    "found": "https://careers.jacobs.com/en_US/careers/SearchJobs"
   },
   {
     "name": "Shell",
