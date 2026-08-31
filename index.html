@@ -34,24 +34,21 @@
 <div class="sub" id="meta">loading…</div>
 
 <div class="bar">
-  <input id="q" placeholder="search company or role…">
+  <input id="q" placeholder="search company, role or location…">
   <select id="disc"><option value="">all disciplines</option></select>
-  <select id="stat">
-    <option value="">all statuses</option>
-    <option>not applied</option>
-    <option>applied</option>
-    <option>OA</option>
-    <option>interview</option>
-    <option>AC</option>
-    <option>offer</option>
-    <option>rejected</option>
+  <select id="kind">
+    <option value="">all types</option>
+    <option>summer</option>
+    <option>graduate</option>
+    <option>placement</option>
+    <option>internship</option>
   </select>
 </div>
 
 <table>
   <thead><tr>
     <th>Company</th><th>Role</th><th>Type</th><th>Discipline</th>
-    <th>Deadline</th><th>Left</th><th>Stages</th><th>Status</th>
+    <th>Location</th><th>Deadline</th><th>Left</th><th>Stages</th>
   </tr></thead>
   <tbody id="rows"></tbody>
 </table>
@@ -69,12 +66,12 @@ function daysLeft(d) {
 function render() {
   const q = document.getElementById("q").value.toLowerCase();
   const disc = document.getElementById("disc").value;
-  const stat = document.getElementById("stat").value;
+  const kind = document.getElementById("kind").value;
 
   const rows = all
-    .filter(r => !q || (r.company + " " + r.title).toLowerCase().includes(q))
+    .filter(r => !q || (r.company + " " + r.title + " " + (r.location || "") + " " + (r.discipline || "")).toLowerCase().includes(q))
     .filter(r => !disc || r.discipline === disc)
-    .filter(r => !stat || r.status === stat)
+    .filter(r => !kind || r.kind === kind)
     .sort((a, b) => (a.deadline || "zzz").localeCompare(b.deadline || "zzz"));
 
   document.getElementById("rows").innerHTML = rows.map(r => {
@@ -91,10 +88,10 @@ function render() {
       <td>${title}</td>
       <td>${r.kind || ""}</td>
       <td>${r.discipline || ""}</td>
+      <td>${r.location || ""}</td>
       <td>${r.deadline || "unknown"}</td>
       <td class="days ${cls}">${left}</td>
       <td class="stages">${r.stages || ""}</td>
-      <td>${r.status || ""}</td>
     </tr>`;
   }).join("") || `<tr><td colspan="8" style="color:var(--dim)">nothing matches</td></tr>`;
 }
@@ -112,7 +109,7 @@ fetch("jobs.json")
   })
   .catch(() => document.getElementById("meta").textContent = "no jobs.json yet — run track.py");
 
-["q", "disc", "stat"].forEach(id =>
+["q", "disc", "kind"].forEach(id =>
   document.getElementById(id).addEventListener("input", render));
 </script>
 </body>
