@@ -15,10 +15,15 @@ import track
 HERE = Path(__file__).parent
 COMPANIES = HERE / "companies.json"
 
-GUESS_PROMPT = """Give the careers pages most likely to list jobs for the UK
-employer below. Prefer early careers, graduate and student pages.
+GUESS_PROMPT = """Give the pages most likely to LIST current vacancies for
+graduates, interns and industrial placements at the UK arm of the employer
+below.
 
-Return ONLY a JSON array of 2 or 3 full URLs, best first. No other text.
+Prefer their job search or vacancy listing page, and their early careers or
+graduate pages. Include the careers home page as a fallback, since we follow
+links from whatever we can open. Only URLs you are reasonably confident exist.
+
+Return ONLY a JSON array of up to 4 full URLs, best first. No other text.
 
 EMPLOYER: {name}
 """

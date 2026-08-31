@@ -30,7 +30,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           COMPANY: ${{ inputs.company }}
-        run: python add.py "$COMPANY"
+        run: python -u add.py "$COMPANY"
 
       - name: commit results
         env:
