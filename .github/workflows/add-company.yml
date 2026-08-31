@@ -1,0 +1,43 @@
+name: Add a company
+
+on:
+  workflow_dispatch:
+    inputs:
+      company:
+        description: "Company name, e.g. BP"
+        required: true
+        type: string
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - run: python -m playwright install --with-deps chromium
+
+      # the company name goes in through the environment, never pasted into the
+      # command line, so a name cannot smuggle in shell commands
+      - name: find the company and rescrape
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COMPANY: ${{ inputs.company }}
+        run: python add.py "$COMPANY"
+
+      - name: commit results
+        env:
+          COMPANY: ${{ inputs.company }}
+        run: |
+          git config user.name  "gradtrack"
+          git config user.email "actions@github.com"
+          git add companies.json jobs.json
+          git diff --staged --quiet || git commit -m "add $COMPANY"
+          git push

@@ -26,5 +26,41 @@
     "name": "EDF Energy",
     "url": "https://www.edfenergy.com/careers/early-careers",
     "js": false
+  },
+  {
+    "name": "Gradcracker: Chemical/Process graduate",
+    "url": "https://www.gradcracker.com/search/chemical-process/engineering-graduate-jobs",
+    "js": false,
+    "board": true
+  },
+  {
+    "name": "Gradcracker: Chemical/Process placements",
+    "url": "https://www.gradcracker.com/search/chemical-process/engineering-work-placements-internships",
+    "js": false,
+    "board": true
+  },
+  {
+    "name": "Gradcracker: Nuclear graduate",
+    "url": "https://www.gradcracker.com/search/chemical-process/nuclear-engineering-graduate-jobs",
+    "js": false,
+    "board": true
+  },
+  {
+    "name": "Gradcracker: Nuclear placements",
+    "url": "https://www.gradcracker.com/search/chemical-process/nuclear-engineering-work-placements-internships",
+    "js": false,
+    "board": true
+  },
+  {
+    "name": "Gradcracker: Energy graduate",
+    "url": "https://www.gradcracker.com/search/science/energy-renewables-graduate-jobs",
+    "js": false,
+    "board": true
+  },
+  {
+    "name": "Gradcracker: Energy placements",
+    "url": "https://www.gradcracker.com/search/science/energy-renewables-work-placements-internships",
+    "js": false,
+    "board": true
   }
 ]

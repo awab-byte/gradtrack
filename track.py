@@ -106,7 +106,7 @@ def get_text(url, js=False, html=None):
 
     text = soup.get_text("\n")
     text = re.sub(r"\n{2,}", "\n", text)
-    return text[:60000]          # keep the prompt cheap
+    return text[:120000]         # job boards run to ~80k chars
 
 
 def fetch(url):
@@ -222,6 +222,7 @@ and contractor jobs.
 
 Return ONLY a JSON array, no markdown, no preamble. Each object:
 {{
+  "employer": "",                // the company offering it, if the page lists several
   "title": "",
   "location": "",                // every location it is offered in, comma separated
   "discipline": "",              // e.g. Chemical, Mechanical, Software, Business
@@ -241,12 +242,14 @@ PAGE TEXT:
 """
 
 
-def extract(company, text):
+def extract(company, text, board=False):
     r = client.messages.create(
         model="claude-haiku-4-5",
-        max_tokens=4000,
+        max_tokens=16000,      # a busy job board page runs to ~9k output tokens
         messages=[{"role": "user", "content": PROMPT.format(text=text)}],
     )
+    if r.stop_reason == "max_tokens":
+        print(f"  ! {company}: reply was cut off - some roles will be missing")
     raw = "".join(b.text for b in r.content if b.type == "text")
     # the model sometimes fences the array, and sometimes adds a sentence of
     # explanation after it. take the outermost [...] and ignore everything else.
@@ -260,7 +263,10 @@ def extract(company, text):
         return []
 
     for role in roles:
-        role["company"] = company
+        # on a job board the employer differs per role. on a company careers
+        # page ignore it, so the name stays exactly as you wrote it.
+        employer = str(role.pop("employer", "") or "").strip()
+        role["company"] = employer if (board and employer) else company
         role["seen"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return roles
 
@@ -270,19 +276,37 @@ def relevant(role):
     return any(k in blob for k in KEYWORDS)
 
 
-def find_roles(company, url, js, html=None):
+def find_roles(company, url, js, html=None, board=False):
     """Roles on one page, already narrowed to the ones you care about.
 
     Discovery uses this too, so a page only counts as "the job list" if it
     yields roles you would actually want - not just any vacancy.
     """
-    return [r for r in extract(company, get_text(url, js, html)) if relevant(r)]
+    return [r for r in extract(company, get_text(url, js, html), board) if relevant(r)]
 
 
 # ---------------------------------------------------------------- storage
 
 def key(role):
     return f"{role['company']}::{role.get('title','').strip().lower()}"
+
+
+def merge_locations(roles):
+    """Job boards list the same role once per city. Keep it as one row."""
+    out = {}
+    for r in roles:
+        k = key(r)
+        if k not in out:
+            out[k] = r
+            continue
+        places = []
+        for chunk in (out[k].get("location") or "", r.get("location") or ""):
+            for place in chunk.split(","):
+                place = place.strip()
+                if place and place not in places:
+                    places.append(place)
+        out[k]["location"] = ", ".join(places)
+    return list(out.values())
 
 
 def load_your_edits(existing):
@@ -353,6 +377,7 @@ def main():
     for c in companies:
         print(f"-> {c['name']}")
         js = c.get("js", True)
+        board = c.get("board", False)     # a job board, many employers
         base = c["url"]
         start = c.get("found") or base      # a job list we found last time
         try:
@@ -361,7 +386,7 @@ def main():
             print(f"  ! fetch failed: {e}")
             continue
 
-        roles = find_roles(c["name"], start, js, html)
+        roles = find_roles(c["name"], start, js, html, board)
 
         # the url you gave us may only describe the schemes rather than list
         # them. follow the links that look like a real vacancy list until one
@@ -378,7 +403,7 @@ def main():
             for cand in (candidate_links(base, html) if html else []):
                 print(f"   no jobs on that page - looking at {cand}")
                 try:
-                    roles = find_roles(c["name"], cand, js)
+                    roles = find_roles(c["name"], cand, js, board=board)
                 except Exception as e:
                     print(f"   ! {type(e).__name__}")
                     continue
@@ -388,7 +413,8 @@ def main():
                     print("   that is the job list - remembering it")
                     break
 
-        for role in roles:
+        merged = merge_locations(roles)
+        for role in merged:
             k = key(role)
             if k not in existing:
                 new_roles.append(role)
@@ -401,7 +427,8 @@ def main():
                 role["date_applied"] = existing[k].get("date_applied", "")
                 existing[k] = role
 
-        print(f"   {len([r for r in existing.values() if r['company']==c['name']])} roles on file")
+        # a job board files roles under each employer, not under the source name
+        print(f"   {len(merged)} roles")
 
     if discovered:
         COMPANIES.write_text(json.dumps(companies, indent=2, ensure_ascii=False),
