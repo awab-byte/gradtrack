@@ -1,0 +1,13 @@
+{
+  "_how_to_use": "Type words you want to KEEP. A role is shown only if every filter you fill in matches it. Leave a list empty [] to ignore that column. Capital letters do not matter, and a word matches part of a cell - so 'summer' matches 'Summer Internship 2027'.",
+  "_examples": [
+    "Only summer roles:            \"Extra details\": [\"summer\"]",
+    "Only summer roles in the UK:  \"Extra details\": [\"summer\"], \"Location/locations\": [\"united kingdom\", \"uk\"]",
+    "Chemical or process roles:    \"Position\": [\"chemical\", \"process\"]"
+  ],
+  "Company name": [],
+  "Position": [],
+  "Extra details": [],
+  "Location/locations": [],
+  "Deadline": []
+}

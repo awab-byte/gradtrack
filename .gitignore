@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+
+# your spreadsheet and your application progress stay on your machine
+jobs.csv
+jobs.new.csv
+my-progress.json

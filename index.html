@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>gradtrack</title>
+<style>
+  :root { --bg:#0f1115; --card:#171a21; --line:#262b36; --txt:#e6e8ec; --dim:#8b93a3;
+          --soon:#ff6b6b; --ok:#4ade80; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:24px; background:var(--bg); color:var(--txt);
+         font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+  h1 { margin:0 0 4px; font-size:22px; }
+  .sub { color:var(--dim); font-size:13px; margin-bottom:20px; }
+  .bar { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:16px; }
+  input, select { background:var(--card); border:1px solid var(--line); color:var(--txt);
+                  padding:8px 10px; border-radius:8px; font-size:14px; }
+  table { width:100%; border-collapse:collapse; }
+  th { text-align:left; font-size:12px; text-transform:uppercase; letter-spacing:.04em;
+       color:var(--dim); padding:8px; border-bottom:1px solid var(--line); }
+  td { padding:10px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  tr:hover { background:var(--card); }
+  .co { font-weight:600; }
+  .days { font-variant-numeric:tabular-nums; }
+  .urgent { color:var(--soon); font-weight:600; }
+  .fine { color:var(--ok); }
+  a { color:#7aa2ff; }
+  .stages { color:var(--dim); font-size:13px; }
+</style>
+</head>
+<body>
+
+<h1>gradtrack</h1>
+<div class="sub" id="meta">loading…</div>
+
+<div class="bar">
+  <input id="q" placeholder="search company or role…">
+  <select id="disc"><option value="">all disciplines</option></select>
+  <select id="stat">
+    <option value="">all statuses</option>
+    <option>not applied</option>
+    <option>applied</option>
+    <option>OA</option>
+    <option>interview</option>
+    <option>AC</option>
+    <option>offer</option>
+    <option>rejected</option>
+  </select>
+</div>
+
+<table>
+  <thead><tr>
+    <th>Company</th><th>Role</th><th>Type</th><th>Discipline</th>
+    <th>Deadline</th><th>Left</th><th>Stages</th><th>Status</th>
+  </tr></thead>
+  <tbody id="rows"></tbody>
+</table>
+
+<script>
+let all = [];
+
+function daysLeft(d) {
+  if (!d || d === "rolling") return null;
+  const t = Date.parse(d);
+  if (isNaN(t)) return null;
+  return Math.ceil((t - Date.now()) / 86400000);
+}
+
+function render() {
+  const q = document.getElementById("q").value.toLowerCase();
+  const disc = document.getElementById("disc").value;
+  const stat = document.getElementById("stat").value;
+
+  const rows = all
+    .filter(r => !q || (r.company + " " + r.title).toLowerCase().includes(q))
+    .filter(r => !disc || r.discipline === disc)
+    .filter(r => !stat || r.status === stat)
+    .sort((a, b) => (a.deadline || "zzz").localeCompare(b.deadline || "zzz"));
+
+  document.getElementById("rows").innerHTML = rows.map(r => {
+    const dl = daysLeft(r.deadline);
+    let left = "—", cls = "";
+    if (r.deadline === "rolling") { left = "rolling"; }
+    else if (dl !== null) {
+      left = dl < 0 ? "closed" : dl + "d";
+      cls = dl < 0 ? "" : dl <= 14 ? "urgent" : "fine";
+    }
+    const title = r.link ? `<a href="${r.link}" target="_blank">${r.title}</a>` : r.title;
+    return `<tr>
+      <td class="co">${r.company}</td>
+      <td>${title}</td>
+      <td>${r.kind || ""}</td>
+      <td>${r.discipline || ""}</td>
+      <td>${r.deadline || "unknown"}</td>
+      <td class="days ${cls}">${left}</td>
+      <td class="stages">${r.stages || ""}</td>
+      <td>${r.status || ""}</td>
+    </tr>`;
+  }).join("") || `<tr><td colspan="8" style="color:var(--dim)">nothing matches</td></tr>`;
+}
+
+fetch("jobs.json")
+  .then(r => r.json())
+  .then(data => {
+    all = Object.values(data);
+    document.getElementById("meta").textContent =
+      `${all.length} roles across ${new Set(all.map(r => r.company)).size} companies`;
+    const ds = [...new Set(all.map(r => r.discipline).filter(Boolean))].sort();
+    document.getElementById("disc").innerHTML +=
+      ds.map(d => `<option>${d}</option>`).join("");
+    render();
+  })
+  .catch(() => document.getElementById("meta").textContent = "no jobs.json yet — run track.py");
+
+["q", "disc", "stat"].forEach(id =>
+  document.getElementById(id).addEventListener("input", render));
+</script>
+</body>
+</html>

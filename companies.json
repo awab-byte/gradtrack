@@ -1,0 +1,29 @@
+[
+  {
+    "name": "AtkinsRealis",
+    "url": "https://careers.atkinsrealis.com/en/jobs",
+    "js": true,
+    "found": "https://careers.atkinsrealis.com/en/jobs?location=United+Kingdom&is_early_careers=true"
+  },
+  {
+    "name": "Jacobs",
+    "url": "https://careers.jacobs.com/en_US/careers/EarlyCareers",
+    "js": true
+  },
+  {
+    "name": "Shell",
+    "url": "https://www.shell.com/careers/students-and-graduates.html",
+    "js": true
+  },
+  {
+    "name": "Frazer-Nash",
+    "url": "https://careers.fnc.co.uk/uk/en/early-careers",
+    "js": true,
+    "found": "https://careers.fnc.co.uk/uk/en/graduates"
+  },
+  {
+    "name": "EDF Energy",
+    "url": "https://www.edfenergy.com/careers/early-careers",
+    "js": false
+  }
+]
