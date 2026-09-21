@@ -2,14 +2,14 @@
   "Shell::shell graduate programme": {
     "title": "Shell Graduate Programme",
     "location": "",
-    "discipline": "Engineering, Business",
+    "discipline": "Business, Engineering, Chemical Engineering, Software Engineering, Finance",
     "kind": "graduate",
     "opens": null,
     "deadline": "rolling",
     "stages": "",
     "link": "https://shell.wd3.myworkdayjobs.com/shellcareers?source=APPLICANT_SOURCE_Global_Page&jobFamilyGroup=a87fe1bd64b801c27afe843fa72c4e0c",
     "company": "Shell",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Shell::shell assessed internship programme": {
     "title": "Shell Assessed Internship Programme",
@@ -21,7 +21,7 @@
     "stages": "",
     "link": "https://www.shell.com/careers/about-careers-at-shell/assessed-internships.html",
     "company": "Shell",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "AtkinsRealis::graduate landscape architect": {
     "title": "Graduate landscape Architect",
@@ -93,7 +93,7 @@
     "stages": "",
     "link": "https://careers.fnc.co.uk/uk/en/graduate-opportunities-engineering",
     "company": "Frazer-Nash",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Frazer-Nash::graduate - systems": {
     "title": "Graduate - Systems",
@@ -105,7 +105,7 @@
     "stages": "",
     "link": "https://careers.fnc.co.uk/uk/en/graduate-opportunities-systems",
     "company": "Frazer-Nash",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Frazer-Nash::graduate - digital": {
     "title": "Graduate - Digital",
@@ -117,31 +117,31 @@
     "stages": "",
     "link": "https://careers.fnc.co.uk/uk/en/graduate-opportunities-digital",
     "company": "Frazer-Nash",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Frazer-Nash::graduate - project management consultancy": {
     "title": "Graduate - Project Management Consultancy",
     "location": "",
-    "discipline": "Business",
+    "discipline": "Project Management",
     "kind": "graduate",
     "opens": null,
     "deadline": null,
     "stages": "",
     "link": "https://careers.fnc.co.uk/uk/en/graduate-opportunities-project-management-consultancy",
     "company": "Frazer-Nash",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Frazer-Nash::graduate - human sciences": {
     "title": "Graduate - Human Sciences",
     "location": "",
-    "discipline": "Business",
+    "discipline": "Human Sciences",
     "kind": "graduate",
     "opens": null,
     "deadline": null,
     "stages": "",
     "link": "https://careers.fnc.co.uk/uk/en/graduate-opportunities-human-sciences",
     "company": "Frazer-Nash",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Frazer-Nash::graduate engineering": {
     "title": "Graduate Engineering",
@@ -313,27 +313,27 @@
   },
   "Stantec::graduate process engineer - water - 2027": {
     "title": "Graduate Process Engineer - Water - 2027",
-    "location": "Edinburgh, Cardiff, Newcastle, High Wycombe, Bristol, Belfast",
-    "discipline": "Chemical, Process",
+    "location": "High Wycombe, Belfast, Cardiff, Bristol",
+    "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
     "deadline": "2026-11-30",
     "stages": "",
-    "link": "https://www.gradcracker.com/hub/44/stantec/graduate-job/81980/graduate-process-engineer-water-2027",
+    "link": "https://www.gradcracker.com/hub/44/stantec/graduate-job/81993/graduate-process-engineer-water-2027",
     "company": "Stantec",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Engineering Safety::graduate safety engineering consultants": {
     "title": "Graduate Safety Engineering Consultants",
-    "location": "Farnham, Guildford",
-    "discipline": "Chemical, Process",
+    "location": "Farnham, Surrey and Guildford, Surrey",
+    "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
-    "deadline": "rolling",
+    "deadline": null,
     "stages": "",
     "link": "https://www.gradcracker.com/hub/966/engineering-safety/graduate-job/39381/graduate-safety-engineering-consultants",
     "company": "Engineering Safety",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "ExxonMobil::engineering graduate": {
     "title": "Engineering Graduate",
@@ -345,11 +345,11 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/206/exxonmobil/graduate-job/82139/engineering-graduate",
     "company": "ExxonMobil",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Crane ChemPharma & Energy::application specialist": {
     "title": "Application Specialist",
-    "location": "Cwmbran (South Wales)",
+    "location": "Cwmbran",
     "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
@@ -357,7 +357,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1347/crane-chempharma-and-energy/graduate-job/81783/application-specialist",
     "company": "Crane ChemPharma & Energy",
-    "seen": "2026-09-07"
+    "seen": "2026-09-21"
   },
   "Veolia UK::chemist": {
     "title": "Chemist",
@@ -377,23 +377,23 @@
     "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
-    "deadline": "rolling",
+    "deadline": null,
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1108/tetra-tech/graduate-job/82084/extraction-chemist",
     "company": "Tetra Tech",
-    "seen": "2026-09-07"
+    "seen": "2026-09-21"
   },
   "Veolia UK::chempac chemist": {
     "title": "Chempac Chemist",
-    "location": "Stewartby (Bedfordshire), Avonmouth (Bristol)",
+    "location": "Stewartby, Falkirk",
     "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
-    "deadline": "rolling",
+    "deadline": null,
     "stages": "",
     "link": "https://www.gradcracker.com/hub/508/veolia-uk/graduate-job/82164/chempac-chemist",
     "company": "Veolia UK",
-    "seen": "2026-09-07"
+    "seen": "2026-09-21"
   },
   "PCC::graduate management development programme 2026": {
     "title": "Graduate Management Development Programme 2026",
@@ -417,19 +417,19 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/44/stantec/graduate-job/82000/graduate-hydraulic-engineer-water-2027",
     "company": "Stantec",
-    "seen": "2026-09-07"
+    "seen": "2026-09-21"
   },
   "Stantec::graduate planner (major projects) - water - 2027": {
     "title": "Graduate Planner (Major Projects) - Water - 2027",
-    "location": "Glasgow, Reading",
+    "location": "Reading, Glasgow",
     "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
     "deadline": "2026-11-30",
     "stages": "",
-    "link": "https://www.gradcracker.com/hub/44/stantec/graduate-job/81988/graduate-planner-major-projects-water-2027",
+    "link": "https://www.gradcracker.com/hub/44/stantec/graduate-job/81992/graduate-planner-major-projects-water-2027",
     "company": "Stantec",
-    "seen": "2026-09-07"
+    "seen": "2026-09-21"
   },
   "KEYENCE::applications engineer 2026": {
     "title": "Applications Engineer 2026",
@@ -458,14 +458,14 @@
   "Stantec::graduate energy engineer - 2027": {
     "title": "Graduate Energy Engineer - 2027",
     "location": "Castlebar, Cork, Dublin and Galway",
-    "discipline": "Energy",
+    "discipline": "Electrical",
     "kind": "graduate",
     "opens": null,
     "deadline": "2026-11-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/44/stantec/graduate-job/82239/graduate-energy-engineer-2027",
     "company": "Stantec",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Stantec::graduate geotechnical or geoenvironmental engineer - 2027": {
     "title": "Graduate Geotechnical or Geoenvironmental Engineer - 2027",
@@ -501,7 +501,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/206/exxonmobil/work-placement-internship/82232/engineering-industrial-placement-scheme-fawley-petrochemical-complex",
     "company": "ExxonMobil",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "ExxonMobil::commercial industrial placement - global trading": {
     "title": "Commercial Industrial Placement - Global Trading",
@@ -542,14 +542,14 @@
   "BlackRock::2027 summer internship programme - operations - technology operations": {
     "title": "2027 Summer Internship Programme - Operations - Technology Operations",
     "location": "Edinburgh",
-    "discipline": "STEM",
+    "discipline": "Software",
     "kind": "summer",
     "opens": "2027-06-01",
     "deadline": "2026-09-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/work-placement-internship/81651/2027-summer-internship-programme-operations-technology-operations",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 summer internship programme - investments - quantitative investing": {
     "title": "2027 Summer Internship Programme - Investments - Quantitative Investing",
@@ -566,14 +566,14 @@
   "BlackRock::2027 summer internship programme - technology - data analytics & modelling": {
     "title": "2027 Summer Internship Programme - Technology - Data Analytics & Modelling",
     "location": "Edinburgh, London and Budapest",
-    "discipline": "STEM",
+    "discipline": "Software",
     "kind": "summer",
     "opens": "2027-06-01",
     "deadline": "2026-09-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/work-placement-internship/81652/2027-summer-internship-programme-technology-data-analytics-and-modelling",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 summer internship programme - investments - private markets investing": {
     "title": "2027 Summer Internship Programme - Investments - Private Markets Investing",
@@ -626,14 +626,14 @@
   "BlackRock::2027 summer internship programme - technology - technology operations": {
     "title": "2027 Summer Internship Programme - Technology - Technology Operations",
     "location": "Edinburgh",
-    "discipline": "STEM",
+    "discipline": "Software",
     "kind": "summer",
     "opens": "2027-06-01",
     "deadline": "2026-09-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/work-placement-internship/81656/2027-summer-internship-programme-technology-technology-operations",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 client and product summer internship programme - emea": {
     "title": "2027 Client and Product Summer Internship Programme - EMEA",
@@ -705,7 +705,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/500/royal-air-force/work-placement-internship/61441/the-defence-stem-undergraduate-scheme",
     "company": "Royal Air Force",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "The British Army::army undergraduate bursary scheme": {
     "title": "Army Undergraduate Bursary Scheme",
@@ -741,7 +741,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/500/royal-air-force/work-placement-internship/67648/university-air-squadron-uas-bursary-scheme",
     "company": "Royal Air Force",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 summer internship programme - corporate & strategic functions - product marketing": {
     "title": "2027 Summer Internship Programme - Corporate & Strategic Functions - Product Marketing",
@@ -993,7 +993,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1181/halo/graduate-job/81773/graduate-scheme-2027",
     "company": "Halo",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 summer internship programme - investments - global capital markets": {
     "title": "2027 Summer Internship Programme - Investments - Global Capital Markets",
@@ -1070,18 +1070,18 @@
   "Midsummer Energy Ltd::sales associate/sales executive, sustainable heating division": {
     "title": "Sales Associate/Sales Executive, Sustainable Heating Division",
     "location": "Cambridge and Glasgow",
-    "discipline": "Energy",
+    "discipline": "Business",
     "kind": "graduate",
     "opens": null,
     "deadline": "rolling",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1012/midsummer-energy-ltd/graduate-job/81325/sales-associate-sales-executive-sustainable-heating-division",
     "company": "Midsummer Energy Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Switch2 Energy::junior heat network engineer": {
     "title": "Junior Heat Network Engineer",
-    "location": "Shipley (Bradford)",
+    "location": "Shipley (Bradford) (Hybrid)",
     "discipline": "Mechanical",
     "kind": "graduate",
     "opens": null,
@@ -1089,7 +1089,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1350/switch2-energy/graduate-job/81711/junior-heat-network-engineer",
     "company": "Switch2 Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Slaughter and May::training contract – september 2029/march 2030": {
     "title": "Training Contract – September 2029/March 2030",
@@ -1101,7 +1101,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1395/slaughter-and-may/graduate-job/82129/training-contract-september-2029-march-2030",
     "company": "Slaughter and May",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "RINA Consulting::junior electrical engineer": {
     "title": "Junior Electrical Engineer",
@@ -1113,7 +1113,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/344/rina-consulting/graduate-job/81752/junior-electrical-engineer",
     "company": "RINA Consulting",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Risktec Solutions::junior graduate engineer - fluent in dutch": {
     "title": "Junior Graduate Engineer - Fluent in Dutch",
@@ -1137,7 +1137,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1481/cisco/graduate-job/81687/associate-sales-representative-csap",
     "company": "Cisco",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Cisco::associate solutions engineer – csap": {
     "title": "Associate Solutions Engineer – CSAP",
@@ -1149,19 +1149,19 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1481/cisco/graduate-job/81686/associate-solutions-engineer-csap",
     "company": "Cisco",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "TPP::business analysts (mandarin speakers)": {
     "title": "Business Analysts (Mandarin Speakers)",
     "location": "Leeds",
-    "discipline": "Business",
+    "discipline": "Software",
     "kind": "graduate",
     "opens": null,
     "deadline": "rolling",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/578/tpp/graduate-job/18467/business-analysts-mandarin-speakers",
     "company": "TPP",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - operations - technology operations": {
     "title": "2027 Full-Time Analyst Programme - Operations - Technology Operations",
@@ -1173,7 +1173,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81626/2027-full-time-analyst-programme-operations-technology-operations",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - technology - technology operations": {
     "title": "2027 Full-Time Analyst Programme - Technology - Technology Operations",
@@ -1185,7 +1185,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81630/2027-full-time-analyst-programme-technology-technology-operations",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "The British Army::royal logistic corps officer": {
     "title": "Royal Logistic Corps Officer",
@@ -1197,7 +1197,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/34063/royal-logistic-corps-officer",
     "company": "The British Army",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - technology - data analytics & modelling": {
     "title": "2027 Full-Time Analyst Programme - Technology - Data Analytics & Modelling",
@@ -1209,7 +1209,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81623/2027-full-time-analyst-programme-technology-data-analytics-and-modelling",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "The British Army::armoured corps officer": {
     "title": "Armoured Corps Officer",
@@ -1221,7 +1221,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/70982/armoured-corps-officer",
     "company": "The British Army",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "The British Army::graduate leadership programme": {
     "title": "Graduate Leadership Programme",
@@ -1233,7 +1233,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/34042/graduate-leadership-programme",
     "company": "The British Army",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "The British Army::army reserve officer": {
     "title": "Army Reserve Officer",
@@ -1245,7 +1245,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/45156/army-reserve-officer",
     "company": "The British Army",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "The British Army::engineering officer": {
     "title": "Engineering Officer",
@@ -1257,7 +1257,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/34062/engineering-officer",
     "company": "The British Army",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2026 full-time analyst programme - technology - sales & relationship and product management: fintech platform": {
     "title": "2026 Full-Time Analyst Programme - Technology - Sales & Relationship and Product Management: Fintech Platform",
@@ -1485,7 +1485,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/923/keyence/graduate-job/82240/business-development-graduate-2027",
     "company": "KEYENCE",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "ExxonMobil::global trading commercial graduate": {
     "title": "Global Trading Commercial Graduate",
@@ -1497,7 +1497,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/206/exxonmobil/graduate-job/82230/global-trading-commercial-graduate",
     "company": "ExxonMobil",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "NETbuilder::wireless electronic engineer/software developer – wireless products": {
     "title": "Wireless Electronic Engineer/Software Developer – Wireless Products",
@@ -1514,14 +1514,14 @@
   "BlackRock::2027 full-time analyst programme - analytics & risk - risk & quantitative analysis": {
     "title": "2027 Full-Time Analyst Programme - Analytics & Risk - Risk & Quantitative Analysis",
     "location": "London",
-    "discipline": "Software",
+    "discipline": "Business",
     "kind": "graduate",
     "opens": "2027-08-01",
     "deadline": "2026-09-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81588/2027-full-time-analyst-programme-analytics-and-risk-risk-and-quantitative-analysis",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Holcim::sales associate": {
     "title": "Sales Associate",
@@ -1538,14 +1538,14 @@
   "Royal Navy::weapon engineer officer": {
     "title": "Weapon Engineer Officer",
     "location": "Dartmouth then UK & International Travel",
-    "discipline": "Mechanical",
+    "discipline": "Business",
     "kind": "graduate",
     "opens": null,
     "deadline": "rolling",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/138/royal-navy/graduate-job/6628/weapon-engineer-officer",
     "company": "Royal Navy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - operations - investment operations": {
     "title": "2027 Full-Time Analyst Programme - Operations - Investment Operations",
@@ -1557,7 +1557,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81622/2027-full-time-analyst-programme-operations-investment-operations",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - technology - software engineering": {
     "title": "2027 Full-Time Analyst Programme - Technology - Software Engineering",
@@ -1569,19 +1569,19 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81628/2027-full-time-analyst-programme-technology-software-engineering",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - investments - quantitative investing": {
     "title": "2027 Full-Time Analyst Programme - Investments - Quantitative Investing",
     "location": "London",
-    "discipline": "Software",
+    "discipline": "Business",
     "kind": "graduate",
     "opens": "2027-08-01",
     "deadline": "2026-09-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81620/2027-full-time-analyst-programme-investments-quantitative-investing",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - operations - client experience operations": {
     "title": "2027 Full-Time Analyst Programme - Operations - Client Experience Operations",
@@ -1593,7 +1593,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81621/2027-full-time-analyst-programme-operations-client-experience-operations",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - investments - investment research": {
     "title": "2027 Full-Time Analyst Programme - Investments - Investment Research",
@@ -1605,7 +1605,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81617/2027-full-time-analyst-programme-investments-investment-research",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - technology - sales & relationship management - fintech platform": {
     "title": "2027 Full-Time Analyst Programme - Technology - Sales & Relationship Management - FinTech Platform",
@@ -1617,7 +1617,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81629/2027-full-time-analyst-programme-technology-sales-and-relationship-management-fintech-platform",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - client & product functions - sales & relationship management - fintech platform": {
     "title": "2027 Full-Time Analyst Programme - Client & Product Functions - Sales & Relationship Management - FinTech Platform",
@@ -1629,7 +1629,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81590/2027-full-time-analyst-programme-client-and-product-functions-sales-and-relationship-management-fintech-platform",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - business & technology audit": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Business & Technology Audit",
@@ -1641,7 +1641,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81591/2027-full-time-analyst-programme-corporate-and-strategic-functions-business-and-technology-audit",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - business management & governance": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Business Management & Governance",
@@ -1653,7 +1653,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81592/2027-full-time-analyst-programme-corporate-and-strategic-functions-business-management-and-governance",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - compliance": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Compliance",
@@ -1665,7 +1665,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81593/2027-full-time-analyst-programme-corporate-and-strategic-functions-compliance",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - client & product functions - product strategy & solutions": {
     "title": "2027 Full-Time Analyst Programme - Client & Product Functions - Product Strategy & Solutions",
@@ -1677,7 +1677,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81589/2027-full-time-analyst-programme-client-and-product-functions-product-strategy-and-solutions",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - human resources": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Human Resources",
@@ -1689,7 +1689,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81605/2027-full-time-analyst-programme-corporate-and-strategic-functions-human-resources",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - global public policy group": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Global Public Policy Group",
@@ -1701,7 +1701,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81603/2027-full-time-analyst-programme-corporate-and-strategic-functions-global-public-policy-group",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - strategic clients & initiatives": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Strategic Clients & Initiatives",
@@ -1713,7 +1713,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81608/2027-full-time-analyst-programme-corporate-and-strategic-functions-strategic-clients-and-initiatives",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - investments - global capital markets": {
     "title": "2027 Full-Time Analyst Programme - Investments - Global Capital Markets",
@@ -1725,7 +1725,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81610/2027-full-time-analyst-programme-investments-global-capital-markets",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - finance": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Finance",
@@ -1737,7 +1737,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81600/2027-full-time-analyst-programme-corporate-and-strategic-functions-finance",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - investments - investment product strategy & solutions": {
     "title": "2027 Full-Time Analyst Programme - Investments - Investment Product Strategy & Solutions",
@@ -1749,19 +1749,19 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81611/2027-full-time-analyst-programme-investments-investment-product-strategy-and-solutions",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Royal Navy::weapon engineer officer (submariner)": {
     "title": "Weapon Engineer Officer (Submariner)",
     "location": "Dartmouth then UK & International Travel",
-    "discipline": "Mechanical",
+    "discipline": "Business",
     "kind": "graduate",
     "opens": null,
     "deadline": "rolling",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/138/royal-navy/graduate-job/6629/weapon-engineer-officer-submariner",
     "company": "Royal Navy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - corporate & strategic functions - corporate communications": {
     "title": "2027 Full-Time Analyst Programme - Corporate & Strategic Functions - Corporate Communications",
@@ -1773,7 +1773,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81597/2027-full-time-analyst-programme-corporate-and-strategic-functions-corporate-communications",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - investments - private markets investing": {
     "title": "2027 Full-Time Analyst Programme - Investments - Private Markets Investing",
@@ -1785,7 +1785,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81619/2027-full-time-analyst-programme-investments-private-markets-investing",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "BlackRock::2027 full-time analyst programme - investments - portfolio management": {
     "title": "2027 Full-Time Analyst Programme - Investments - Portfolio Management",
@@ -1797,7 +1797,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/807/blackrock/graduate-job/81618/2027-full-time-analyst-programme-investments-portfolio-management",
     "company": "BlackRock",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "WTW::graduate programmes - 2027": {
     "title": "Graduate Programmes - 2027",
@@ -1821,7 +1821,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/308/fdm-group/graduate-job/76959/software-engineering-graduate-programme-hong-kong-international-students",
     "company": "FDM Group",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "The British Army::artillery officer": {
     "title": "Artillery Officer",
@@ -1833,7 +1833,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/70992/artillery-officer",
     "company": "The British Army",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Get Into Teaching::initial teaching training (itt)": {
     "title": "Initial Teaching Training (ITT)",
@@ -2056,12 +2056,12 @@
     "location": "Multiple UK Locations",
     "discipline": "Chemical",
     "kind": "graduate",
-    "opens": null,
+    "opens": "2027-09-01",
     "deadline": "2026-11-06",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/179/nuclear-graduates/graduate-job/82574/chemical-engineering-nuclear-graduates-2027",
     "company": "Nuclear Graduates",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "WSP::chemistry graduate - emergency responder": {
     "title": "Chemistry Graduate - Emergency Responder",
@@ -2069,11 +2069,11 @@
     "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
-    "deadline": "rolling",
+    "deadline": null,
     "stages": "",
     "link": "https://www.gradcracker.com/hub/408/wsp/graduate-job/82312/chemistry-graduate-emergency-responder",
     "company": "WSP",
-    "seen": "2026-09-07"
+    "seen": "2026-09-21"
   },
   "Arcadis::graduate nuclear safety consultant": {
     "title": "Graduate Nuclear Safety Consultant",
@@ -2085,7 +2085,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/409/arcadis/graduate-job/82594/graduate-nuclear-safety-consultant",
     "company": "Arcadis",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Decommissioning Authority Group::radiological protection - nda group graduates 2027": {
     "title": "Radiological Protection - NDA group graduates 2027",
@@ -2097,7 +2097,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1245/nuclear-decommissioning-authority-group/graduate-job/82607/radiological-protection-nda-group-graduates-2027",
     "company": "Nuclear Decommissioning Authority Group",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Graduates::plant chemistry - nuclear graduates 2027": {
     "title": "Plant Chemistry - Nuclear Graduates 2027",
@@ -2109,7 +2109,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/179/nuclear-graduates/graduate-job/82583/plant-chemistry-nuclear-graduates-2027",
     "company": "Nuclear Graduates",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Graduates::thermofluids - nuclear graduates 2027": {
     "title": "Thermofluids - Nuclear Graduates 2027",
@@ -2121,7 +2121,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/179/nuclear-graduates/graduate-job/82587/thermofluids-nuclear-graduates-2027",
     "company": "Nuclear Graduates",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Decommissioning Authority Group::health & safety - nda group graduates 2027": {
     "title": "Health & Safety - NDA group graduates 2027",
@@ -2133,7 +2133,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1245/nuclear-decommissioning-authority-group/graduate-job/82599/health-and-safety-nda-group-graduates-2027",
     "company": "Nuclear Decommissioning Authority Group",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Decommissioning Authority Group::safety case & human factors - nda group graduates 2027": {
     "title": "Safety Case & Human Factors - NDA group graduates 2027",
@@ -2145,7 +2145,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1245/nuclear-decommissioning-authority-group/graduate-job/82609/safety-case-and-human-factors-nda-group-graduates-2027",
     "company": "Nuclear Decommissioning Authority Group",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Graduates::nuclear safety - nuclear graduates 2027": {
     "title": "Nuclear Safety - Nuclear Graduates 2027",
@@ -2157,7 +2157,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/179/nuclear-graduates/graduate-job/82582/nuclear-safety-nuclear-graduates-2027",
     "company": "Nuclear Graduates",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Graduates::safeguards - nuclear graduates 2027": {
     "title": "Safeguards - Nuclear Graduates 2027",
@@ -2169,7 +2169,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/179/nuclear-graduates/graduate-job/82586/safeguards-nuclear-graduates-2027",
     "company": "Nuclear Graduates",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Graduates::project management & controls - nuclear graduates 2027": {
     "title": "Project Management & Controls - Nuclear Graduates 2027",
@@ -2181,7 +2181,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/179/nuclear-graduates/graduate-job/82584/project-management-and-controls-nuclear-graduates-2027",
     "company": "Nuclear Graduates",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Airbus::aggp2027 – graduate, failure analyst - materials & processes": {
     "title": "AGGP2027 – Graduate, Failure Analyst - Materials & Processes",
@@ -2193,7 +2193,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/graduate-job/82363/aggp2027-graduate-failure-analyst-materials-and-processes",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Airbus::aggp2027 – graduate - material & processes specialist- surface technology": {
     "title": "AGGP2027 – Graduate - Material & Processes Specialist- Surface Technology",
@@ -2217,7 +2217,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/graduate-job/82360/aggp2027-fuel-and-inerting-systems-graduate",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Johnson Matthey::johnson matthey uk lead graduate rotational programme - 2027 cohort": {
     "title": "Johnson Matthey UK LEAD Graduate Rotational Programme - 2027 cohort",
@@ -2229,7 +2229,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/147/johnson-matthey/graduate-job/82235/johnson-matthey-uk-lead-graduate-rotational-programme-2027-cohort",
     "company": "Johnson Matthey",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Mitsubishi Chemical::industrial placement - chemical engineer": {
     "title": "Industrial Placement - Chemical Engineer",
@@ -2241,7 +2241,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/352/mitsubishi-chemical/work-placement-internship/82597/industrial-placement-chemical-engineer",
     "company": "Mitsubishi Chemical",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "ExxonMobil::engineering summer placement scheme - 2027 - fawley petrochemical complex": {
     "title": "Engineering Summer Placement Scheme - 2027 - Fawley Petrochemical Complex",
@@ -2253,7 +2253,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/206/exxonmobil/work-placement-internship/82418/engineering-summer-placement-scheme-2027-fawley-petrochemical-complex",
     "company": "ExxonMobil",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Airbus::hydrogen test rig design placement (12.5 months)": {
     "title": "Hydrogen Test Rig Design Placement (12.5 months)",
@@ -2265,7 +2265,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/work-placement-internship/82655/hydrogen-test-rig-design-placement-12-5-months",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "GE Aerospace::ge aerospace environment, health, and safety (ehs) - 12 month placement": {
     "title": "GE Aerospace Environment, Health, and Safety (EHS) - 12 Month Placement",
@@ -2277,7 +2277,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/150/ge-aerospace/work-placement-internship/82647/ge-aerospace-environment-health-and-safety-ehs-12-month-placement",
     "company": "GE Aerospace",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Airbus::fuel systems fluid mechanical engineering placement (12.5 months)": {
     "title": "Fuel Systems Fluid Mechanical Engineering Placement (12.5 months)",
@@ -2289,7 +2289,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/work-placement-internship/82646/fuel-systems-fluid-mechanical-engineering-placement-12-5-months",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Airbus::airframe structures test engineer placement (12.5 months)": {
     "title": "Airframe Structures Test Engineer Placement (12.5 months)",
@@ -2301,55 +2301,55 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/work-placement-internship/82631/airframe-structures-test-engineer-placement-12-5-months",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Slaughter and May::summer work experience schemes 2027": {
     "title": "Summer Work Experience Schemes 2027",
     "location": "London",
-    "discipline": "Finance, Analytics, Computing, Mechanical, Electrical, Energy, Chemistry",
+    "discipline": "Energy",
     "kind": "summer",
     "opens": "2027-06-01",
     "deadline": "2026-12-04",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1395/slaughter-and-may/work-placement-internship/82309/summer-work-experience-schemes-2027",
     "company": "Slaughter and May",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Winston Taylor::london spring vacation scheme 2027": {
     "title": "London Spring Vacation Scheme 2027",
     "location": "London",
-    "discipline": "Chemistry, Physics, Biology, Finance, Computing",
+    "discipline": "Business",
     "kind": "internship",
     "opens": "2027-04-01",
     "deadline": "2026-10-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/842/winston-taylor/work-placement-internship/82250/london-spring-vacation-scheme-2027",
     "company": "Winston Taylor",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Winston Taylor::london summer vacation scheme 2027": {
     "title": "London Summer Vacation Scheme 2027",
     "location": "London",
-    "discipline": "Chemistry, Physics, Biology, Finance, Computing",
+    "discipline": "Business",
     "kind": "summer",
     "opens": "2027-06-01",
     "deadline": "2026-11-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/842/winston-taylor/work-placement-internship/82252/london-summer-vacation-scheme-2027",
     "company": "Winston Taylor",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Winston Taylor::dublin summer internship 2027": {
     "title": "Dublin Summer Internship 2027",
     "location": "Dublin",
-    "discipline": "Chemistry, Physics, Biology, Finance, Computing",
+    "discipline": "Business",
     "kind": "summer",
     "opens": "2027-06-01",
     "deadline": "2026-10-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/842/winston-taylor/work-placement-internship/82263/dublin-summer-internship-2027",
     "company": "Winston Taylor",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Arcadis::summer intern - geo-environmental consultant": {
     "title": "Summer Intern - Geo-Environmental Consultant",
@@ -2361,19 +2361,19 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/409/arcadis/work-placement-internship/82621/summer-intern-geo-environmental-consultant",
     "company": "Arcadis",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Bank of America::global technology cyber security 12 month industrial placement 2027 analyst": {
     "title": "Global Technology Cyber Security 12 Month Industrial Placement 2027 Analyst",
     "location": "Chester",
-    "discipline": "STEM",
+    "discipline": "Software",
     "kind": "placement",
     "opens": "2027-06-01",
     "deadline": "2026-10-11",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/236/bank-of-america/work-placement-internship/82336/global-technology-cyber-security-12-month-industrial-placement-2027-analyst",
     "company": "Bank of America",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Bank of America::global technology, technology infrastructure summer 2027 analyst": {
     "title": "Global Technology, Technology Infrastructure Summer 2027 Analyst",
@@ -2685,7 +2685,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/179/nuclear-graduates/graduate-job/82576/combined-physics-nuclear-graduates-2027",
     "company": "Nuclear Graduates",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Decommissioning Authority Group::mechanical engineering - nda group graduates 2027": {
     "title": "Mechanical Engineering - NDA group graduates 2027",
@@ -2697,7 +2697,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1245/nuclear-decommissioning-authority-group/graduate-job/82603/mechanical-engineering-nda-group-graduates-2027",
     "company": "Nuclear Decommissioning Authority Group",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Arcadis::graduate electrical energy engineer": {
     "title": "Graduate Electrical Energy Engineer",
@@ -2709,7 +2709,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/409/arcadis/graduate-job/82569/graduate-electrical-energy-engineer",
     "company": "Arcadis",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "HDR::graduate engineer - power": {
     "title": "Graduate Engineer - Power",
@@ -2721,55 +2721,55 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1403/hdr/graduate-job/82185/graduate-engineer-power",
     "company": "HDR",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Nuclear Decommissioning Authority Group::sustainability - nda group graduates 2027": {
     "title": "Sustainability - NDA group graduates 2027",
     "location": "Multiple UK Locations",
-    "discipline": "Environmental",
+    "discipline": "Business",
     "kind": "graduate",
     "opens": "2027-09-01",
     "deadline": "2026-11-06",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1245/nuclear-decommissioning-authority-group/graduate-job/82610/sustainability-nda-group-graduates-2027",
     "company": "Nuclear Decommissioning Authority Group",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Tetra Tech::graduate sustainable design consultant": {
     "title": "Graduate Sustainable Design Consultant",
-    "location": "Manchester, Leeds and Edinburgh",
-    "discipline": "Environmental",
+    "location": "Manchester, Leeds and Edinburgh (Hybrid)",
+    "discipline": "Business",
     "kind": "graduate",
     "opens": "2027-09-01",
     "deadline": "2026-10-31",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1108/tetra-tech/graduate-job/82459/graduate-sustainable-design-consultant",
     "company": "Tetra Tech",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Winston Taylor::london summer vacation scheme/training contract 2027 (open to final year stem students)": {
     "title": "London Summer Vacation Scheme/Training Contract 2027 (Open to final year STEM students)",
     "location": "London",
     "discipline": "Business",
-    "kind": "graduate",
+    "kind": "summer",
     "opens": "2027-06-01",
     "deadline": "2026-11-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/842/winston-taylor/graduate-job/82253/london-summer-vacation-scheme-training-contract-2027-open-to-final-year-stem-students",
     "company": "Winston Taylor",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Winston Taylor::london spring vacation scheme/training contract 2027 (open to final year stem students)": {
     "title": "London Spring Vacation Scheme/Training Contract 2027 (Open to final year STEM students)",
     "location": "London",
     "discipline": "Business",
-    "kind": "graduate",
+    "kind": "internship",
     "opens": "2027-04-01",
     "deadline": "2026-10-30",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/842/winston-taylor/graduate-job/82251/london-spring-vacation-scheme-training-contract-2027-open-to-final-year-stem-students",
     "company": "Winston Taylor",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Winston Taylor::dublin training contract 2027": {
     "title": "Dublin Training Contract 2027",
@@ -2781,7 +2781,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/842/winston-taylor/graduate-job/82262/dublin-training-contract-2027",
     "company": "Winston Taylor",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "HALO::graduate scheme 2027": {
     "title": "Graduate Scheme 2027",
@@ -2805,11 +2805,11 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/516/the-british-army/graduate-job/45186/army-reserve-soldier",
     "company": "The British Army",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Reddie & Grose::2027 graduate trainee trade mark attorney": {
     "title": "2027 Graduate Trainee Trade Mark Attorney",
-    "location": "London",
+    "location": "London (Hybrid)",
     "discipline": "Business",
     "kind": "graduate",
     "opens": null,
@@ -2817,7 +2817,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/608/reddie-and-grose/graduate-job/82162/2027-graduate-trainee-trade-mark-attorney",
     "company": "Reddie & Grose",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Morrisons::corporate graduate scheme": {
     "title": "Corporate Graduate Scheme",
@@ -3021,7 +3021,7 @@
     "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
     "link": "https://www.edfenergy.com/job/stem-graduate-programme-in-bridgwater-jid-2298",
     "company": "EDF Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "EDF Energy::electrical engineering graduate": {
     "title": "Electrical Engineering Graduate",
@@ -3033,7 +3033,7 @@
     "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
     "link": "https://www.edfenergy.com/job/electrical-engineering-graduate-in-edinburgh-jid-2291",
     "company": "EDF Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "EDF Energy::mechanical engineering graduate": {
     "title": "Mechanical Engineering Graduate",
@@ -3045,7 +3045,7 @@
     "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
     "link": "https://www.edfenergy.com/job/mechanical-engineering-graduate-in-morecambe-jid-2286",
     "company": "EDF Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "EDF Energy::supply chain/commercial graduate": {
     "title": "Supply Chain/Commercial Graduate",
@@ -3057,7 +3057,7 @@
     "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
     "link": "https://www.edfenergy.com/job/supply-chain-commercial-graduate-in-leiston-jid-2285",
     "company": "EDF Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "EDF Energy::engineering graduate": {
     "title": "Engineering Graduate",
@@ -3069,7 +3069,7 @@
     "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
     "link": "https://www.edfenergy.com/job/engineering-graduate-in-bristol-jid-2287",
     "company": "EDF Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "EDF Energy::commercial graduate – renewable energy": {
     "title": "Commercial Graduate – Renewable Energy",
@@ -3081,19 +3081,19 @@
     "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
     "link": "https://www.edfenergy.com/job/commercial-graduate-renewable-energy-in-edinburgh-jid-2294",
     "company": "EDF Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "EDF Energy::maths graduate": {
     "title": "Maths Graduate",
     "location": "Gloucester",
-    "discipline": "Mathematics",
+    "discipline": "STEM",
     "kind": "graduate",
     "opens": null,
     "deadline": null,
     "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
     "link": "https://www.edfenergy.com/job/maths-graduate-in-gloucester-jid-2297",
     "company": "EDF Energy",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "EDF Energy::civil engineering graduate": {
     "title": "Civil Engineering Graduate",
@@ -3110,26 +3110,26 @@
   "AECOM::graduate water engineering process / chemical": {
     "title": "Graduate Water Engineering Process / Chemical",
     "location": "Belfast",
-    "discipline": "Chemical, Process, Water",
+    "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
-    "deadline": "rolling",
+    "deadline": null,
     "stages": "",
-    "link": "https://www.gradcracker.com/hub/60/aecom/graduate-job/83121/graduate-water-engineering-process-chemical",
+    "link": "https://www.gradcracker.com/hub/60/aecom/graduate-job/83642/graduate-water-engineering-process-chemical",
     "company": "AECOM",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "INEOS::chemical engineering graduate 2027": {
     "title": "Chemical Engineering Graduate 2027",
     "location": "Grangemouth",
     "discipline": "Chemical",
     "kind": "graduate",
-    "opens": null,
+    "opens": "2027-09-01",
     "deadline": "2026-11-13",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/479/ineos/graduate-job/83150/chemical-engineering-graduate-2027",
     "company": "INEOS",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 cumbria - operations graduate programme": {
     "title": "2027 Cumbria - Operations Graduate Programme",
@@ -3141,31 +3141,31 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/graduate-job/83067/2027-cumbria-operations-graduate-programme",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Greencore::engineering (infrastructure & utilities) graduate programme": {
     "title": "Engineering (Infrastructure & Utilities) Graduate Programme",
     "location": "Multiple UK Locations",
-    "discipline": "Process",
+    "discipline": "Chemical",
     "kind": "graduate",
     "opens": "2027-09-01",
     "deadline": "2026-12-01",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/654/greencore/graduate-job/82740/engineering-infrastructure-and-utilities-graduate-programme",
     "company": "Greencore",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Greencore::engineering (project management) graduate programme": {
     "title": "Engineering (Project Management) Graduate Programme",
     "location": "Multiple UK Locations",
-    "discipline": "Process",
+    "discipline": "Chemical",
     "kind": "graduate",
     "opens": "2027-09-01",
     "deadline": "2026-12-01",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/654/greencore/graduate-job/82741/engineering-project-management-graduate-programme",
     "company": "Greencore",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 warrington - design engineering graduate programme": {
     "title": "2027 Warrington - Design Engineering Graduate Programme",
@@ -3177,7 +3177,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/graduate-job/83048/2027-warrington-design-engineering-graduate-programme",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 cumbria - engineering & maintenance graduate programme": {
     "title": "2027 Cumbria - Engineering & Maintenance Graduate Programme",
@@ -3189,19 +3189,19 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/graduate-job/83064/2027-cumbria-engineering-and-maintenance-graduate-programme",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "NSG Environmental::graduate consultant": {
     "title": "Graduate Consultant",
     "location": "Aldermaston (Reading)",
-    "discipline": "Environmental",
+    "discipline": "Chemical",
     "kind": "graduate",
     "opens": null,
     "deadline": "2026-10-02",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1324/nsg-environmental/graduate-job/83185/graduate-consultant",
     "company": "NSG Environmental",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Airbus::laboratory specialist placement (12.5 months)": {
     "title": "Laboratory Specialist Placement (12.5 months)",
@@ -3213,7 +3213,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/work-placement-internship/82671/laboratory-specialist-placement-12-5-months",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 warrington - design engineering industrial placement programme": {
     "title": "2027 Warrington - Design Engineering Industrial Placement Programme",
@@ -3225,7 +3225,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/work-placement-internship/83057/2027-warrington-design-engineering-industrial-placement-programme",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 cumbria - engineering and maintenance summer placement programme": {
     "title": "2027 Cumbria - Engineering and Maintenance Summer Placement Programme",
@@ -3237,7 +3237,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/work-placement-internship/83058/2027-cumbria-engineering-and-maintenance-summer-placement-programme",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 cumbria - engineering and maintenance industrial placement": {
     "title": "2027 Cumbria - Engineering and Maintenance Industrial Placement",
@@ -3249,7 +3249,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/work-placement-internship/83052/2027-cumbria-engineering-and-maintenance-industrial-placement",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 warrington - design engineering summer placement programme": {
     "title": "2027 Warrington - Design Engineering Summer Placement Programme",
@@ -3261,7 +3261,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/work-placement-internship/83060/2027-warrington-design-engineering-summer-placement-programme",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Airbus::materials & processes engineer placement (12.5 months)": {
     "title": "Materials & Processes Engineer Placement (12.5 months)",
@@ -3273,7 +3273,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/work-placement-internship/82698/materials-and-processes-engineer-placement-12-5-months",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 cumbria - technical industrial placement": {
     "title": "2027 Cumbria - Technical Industrial Placement",
@@ -3285,7 +3285,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/work-placement-internship/83078/2027-cumbria-technical-industrial-placement",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Jane Street::machine learning researcher internship (june - september)": {
     "title": "Machine Learning Researcher Internship (June - September)",
@@ -3309,11 +3309,11 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/166/airbus/work-placement-internship/82699/materials-and-processes-placement-12-5-months",
     "company": "Airbus",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Greencore::food technology placement programme": {
     "title": "Food Technology Placement Programme",
-    "location": "London, Lincolnshire, South-West and Cheshire",
+    "location": "London, Lincolnshire, South-West, Cheshire",
     "discipline": "Chemical",
     "kind": "placement",
     "opens": null,
@@ -3321,7 +3321,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/654/greencore/work-placement-internship/82733/food-technology-placement-programme",
     "company": "Greencore",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Greencore::product development placement programme 2027": {
     "title": "Product Development Placement Programme 2027",
@@ -3333,31 +3333,31 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/654/greencore/work-placement-internship/82728/product-development-placement-programme-2027",
     "company": "Greencore",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "RWE::power transmission placement programme": {
     "title": "Power Transmission Placement Programme",
     "location": "London and Swindon (Wiltshire)",
-    "discipline": "Electrical, Energy, Renewables",
+    "discipline": "Electrical, Energy",
     "kind": "placement",
     "opens": "2027-07-01",
-    "deadline": "2026-09-21",
+    "deadline": "2026-09-23",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/46/rwe/work-placement-internship/82923/power-transmission-placement-programme",
     "company": "RWE",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 cumbria - safety engineering industrial placement": {
     "title": "2027 Cumbria - Safety Engineering Industrial Placement",
     "location": "Cumbria",
     "discipline": "Engineering",
     "kind": "placement",
-    "opens": "2027-07-01",
+    "opens": null,
     "deadline": "2026-10-23",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/work-placement-internship/83056/2027-cumbria-safety-engineering-industrial-placement",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Unilever::industrial placement (ip) - uk & ireland: sales": {
     "title": "Industrial Placement (IP) - UK & Ireland: Sales",
@@ -3374,26 +3374,26 @@
   "EDF::stem nuclear graduate": {
     "title": "STEM Nuclear Graduate",
     "location": "Bridgwater (Somerset)",
-    "discipline": "Nuclear",
+    "discipline": "STEM",
     "kind": "graduate",
-    "opens": "2027-09-01",
+    "opens": null,
     "deadline": "2026-10-01",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/182/edf/graduate-job/83189/stem-nuclear-graduate",
     "company": "EDF",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Sellafield Ltd::2027 cumbria - safety case graduate programme": {
     "title": "2027 Cumbria - Safety Case Graduate Programme",
     "location": "Cumbria",
-    "discipline": "Nuclear",
+    "discipline": "STEM",
     "kind": "graduate",
-    "opens": "2027-09-01",
+    "opens": null,
     "deadline": "2026-10-23",
     "stages": "",
     "link": "https://www.gradcracker.com/hub/67/sellafield-ltd/graduate-job/83074/2027-cumbria-safety-case-graduate-programme",
     "company": "Sellafield Ltd",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Accenture::business & technology consulting graduate programme": {
     "title": "Business & Technology Consulting Graduate Programme",
@@ -3405,7 +3405,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/269/accenture/graduate-job/82919/business-and-technology-consulting-graduate-programme",
     "company": "Accenture",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "KEYENCE::customer success executive": {
     "title": "Customer Success Executive",
@@ -3417,7 +3417,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/923/keyence/graduate-job/72241/customer-success-executive",
     "company": "KEYENCE",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Kilburn & Strode LLP::trainee trade mark attorney - 2026/2027": {
     "title": "Trainee Trade Mark Attorney - 2026/2027",
@@ -3429,7 +3429,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/1230/kilburn-and-strode-llp/graduate-job/82867/trainee-trade-mark-attorney-2026-2027",
     "company": "Kilburn & Strode LLP",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Deutsche Bank::deutsche bank graduate programme - investment bank: capital markets - uk coverage - 2027": {
     "title": "Deutsche Bank Graduate Programme - Investment Bank: Capital Markets - UK Coverage - 2027",
@@ -3441,7 +3441,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/403/deutsche-bank/graduate-job/82895/deutsche-bank-graduate-programme-investment-bank-capital-markets-uk-coverage-2027",
     "company": "Deutsche Bank",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Deutsche Bank::deutsche bank graduate programme - investment banking & capital markets - 2027": {
     "title": "Deutsche Bank Graduate Programme - Investment Banking & Capital Markets - 2027",
@@ -3453,7 +3453,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/403/deutsche-bank/graduate-job/82897/deutsche-bank-graduate-programme-investment-banking-and-capital-markets-2027",
     "company": "Deutsche Bank",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Deutsche Bank::deutsche bank graduate programme - investment bank: capital markets - 2027": {
     "title": "Deutsche Bank Graduate Programme - Investment Bank: Capital Markets - 2027",
@@ -3465,7 +3465,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/403/deutsche-bank/graduate-job/82896/deutsche-bank-graduate-programme-investment-bank-capital-markets-2027",
     "company": "Deutsche Bank",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "Spirax Group::global graduate leadership development programme": {
     "title": "Global Graduate Leadership Development Programme",
@@ -3477,7 +3477,7 @@
     "stages": "",
     "link": "https://www.gradcracker.com/hub/383/spirax-group/graduate-job/82783/global-graduate-leadership-development-programme",
     "company": "Spirax Group",
-    "seen": "2026-09-14"
+    "seen": "2026-09-21"
   },
   "South Wales Police::south wales police probationary constable campaign september 2026": {
     "title": "South Wales Police Probationary Constable Campaign September 2026",
@@ -3502,5 +3502,701 @@
     "link": "https://www.gradcracker.com/hub/654/greencore/graduate-job/82735/finance-graduate-programme",
     "company": "Greencore",
     "seen": "2026-09-14"
+  },
+  "AtkinsRealis::roadway design engineering intern - summer 2027": {
+    "title": "Roadway Design Engineering Intern - Summer 2027",
+    "location": "Raleigh, North Carolina, United States of America",
+    "discipline": "Engineering",
+    "kind": "summer",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://careers.atkinsrealis.com/en/jobs/roadway-design-engineering-intern-summer-2027-r-162556",
+    "company": "AtkinsRealis",
+    "seen": "2026-09-21"
+  },
+  "Jacobs::civil engineering intern (water resources / transportation drainage) - summer 2027": {
+    "title": "Civil Engineering Intern (Water Resources / Transportation Drainage) - Summer 2027",
+    "location": "Dallas, Texas, United States",
+    "discipline": "Civil",
+    "kind": "summer",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://careers.jacobs.com/en_US/careers/JobDetail/Civil-Engineering-Intern-Water-Resources-Transportation-Drainage-Summer-2027/45589",
+    "company": "Jacobs",
+    "seen": "2026-09-21"
+  },
+  "Jacobs::graduate water catchment scientist (peterborough) - march 2027 start date": {
+    "title": "Graduate Water Catchment Scientist (Peterborough) - March 2027 Start Date",
+    "location": "Northminster, Peterborough, United Kingdom",
+    "discipline": "Environmental",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://careers.jacobs.com/en_US/careers/JobDetail/Graduate-Water-Catchment-Scientist-Peterborough-March-2027-Start-Date/45585",
+    "company": "Jacobs",
+    "seen": "2026-09-21"
+  },
+  "Jacobs::graduate civil engineer - ports & maritime (exeter)": {
+    "title": "Graduate Civil Engineer - Ports & Maritime (Exeter)",
+    "location": "Exeter, Devon, United Kingdom",
+    "discipline": "Civil",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://careers.jacobs.com/en_US/careers/JobDetail/Graduate-Civil-Engineer-Ports-Maritime-Exeter/45584",
+    "company": "Jacobs",
+    "seen": "2026-09-21"
+  },
+  "Jacobs::graduate surface water management engineer (exeter) - march 2027 start date": {
+    "title": "Graduate Surface Water Management Engineer (Exeter) - March 2027 Start Date",
+    "location": "Exeter, Devon, United Kingdom",
+    "discipline": "Civil",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://careers.jacobs.com/en_US/careers/JobDetail/Graduate-Surface-Water-Management-Engineer-Exeter-March-2027-Start-Date/45576",
+    "company": "Jacobs",
+    "seen": "2026-09-21"
+  },
+  "Jacobs::graduate surface water management engineer (warrington)": {
+    "title": "Graduate Surface Water Management Engineer (Warrington)",
+    "location": "Warrington, Cheshire, United Kingdom",
+    "discipline": "Civil",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://careers.jacobs.com/en_US/careers/JobDetail/Graduate-Surface-Water-Management-Engineer-Warrington/45575",
+    "company": "Jacobs",
+    "seen": "2026-09-21"
+  },
+  "EDF Energy::commercial graduate": {
+    "title": "Commercial Graduate",
+    "location": "London",
+    "discipline": "Business",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "CV > Online Assessment > Video Interview > Assessment Centre",
+    "link": "https://www.edfenergy.com/job/commercial-graduate-in-london-jid-2282",
+    "company": "EDF Energy",
+    "seen": "2026-09-21"
+  },
+  "Babcock::chemical and process engineering graduate programme": {
+    "title": "Chemical and Process Engineering Graduate Programme",
+    "location": "Bristol, Warrington and Humberside",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83062/chemical-and-process-engineering-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Babcock::chemical and process engineering graduate programme – devonport facilities": {
+    "title": "Chemical and Process Engineering Graduate Programme – Devonport Facilities",
+    "location": "Devonport",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83066/chemical-and-process-engineering-graduate-programme-devonport-facilities",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Jacobs::graduate process engineer": {
+    "title": "Graduate Process Engineer",
+    "location": "Dublin and Cork",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-10-12",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/41/jacobs/graduate-job/83450/graduate-process-engineer",
+    "company": "Jacobs",
+    "seen": "2026-09-21"
+  },
+  "United Utilities::graduate process engineer": {
+    "title": "Graduate Process Engineer",
+    "location": "Lingley Mere",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-10-21",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/77/united-utilities/graduate-job/83774/graduate-process-engineer",
+    "company": "United Utilities",
+    "seen": "2026-09-21"
+  },
+  "Arup::graduate process engineer - energy": {
+    "title": "Graduate Process Engineer - Energy",
+    "location": "London",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/169/arup/graduate-job/83604/graduate-process-engineer-energy",
+    "company": "Arup",
+    "seen": "2026-09-21"
+  },
+  "Jacobs::graduate process engineer - regulated water": {
+    "title": "Graduate Process Engineer - Regulated Water",
+    "location": "Manchester, Reading, Birmingham, Belfast",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": "2027-03-01",
+    "deadline": "2026-10-12",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/41/jacobs/graduate-job/83313/graduate-process-engineer-regulated-water",
+    "company": "Jacobs",
+    "seen": "2026-09-21"
+  },
+  "Babcock::nuclear safety engineering and operations graduate programme": {
+    "title": "Nuclear Safety Engineering and Operations Graduate Programme",
+    "location": "Devonport (Plymouth)",
+    "discipline": "Nuclear, Chemical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83093/nuclear-safety-engineering-and-operations-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Babcock::nuclear safety case engineering graduate programme": {
+    "title": "Nuclear Safety Case Engineering Graduate Programme",
+    "location": "Warrington",
+    "discipline": "Nuclear, Chemical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83092/nuclear-safety-case-engineering-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Arup::graduate energy advisory": {
+    "title": "Graduate Energy Advisory",
+    "location": "Sheffield and Edinburgh",
+    "discipline": "Electrical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/169/arup/graduate-job/83596/graduate-energy-advisory",
+    "company": "Arup",
+    "seen": "2026-09-21"
+  },
+  "Babcock::science and analytical chemistry graduate programme": {
+    "title": "Science and Analytical Chemistry Graduate Programme",
+    "location": "Devonport",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83102/science-and-analytical-chemistry-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Arup::graduate rail safety risk consultant": {
+    "title": "Graduate Rail Safety Risk Consultant",
+    "location": "London",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/169/arup/graduate-job/83585/graduate-rail-safety-risk-consultant",
+    "company": "Arup",
+    "seen": "2026-09-21"
+  },
+  "Babcock::environmental engineering graduate programme": {
+    "title": "Environmental Engineering Graduate Programme",
+    "location": "Bristol",
+    "discipline": "Environmental, Chemistry, Physics, Chemical, Marine, Electrical, Computing",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83081/environmental-engineering-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Babcock::supportability engineering graduate programme": {
+    "title": "Supportability Engineering Graduate Programme",
+    "location": "Bristol and Ashchurch (Gloucestershire)",
+    "discipline": "Naval, Aerospace, Civil, Chemical, Mechanical, Electrical, Systems",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83106/supportability-engineering-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Ecolutia Services::mobile field service engineer": {
+    "title": "Mobile Field Service Engineer",
+    "location": "Multiple UK Locations",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/1189/ecolutia-services/graduate-job/52887/mobile-field-service-engineer",
+    "company": "Ecolutia Services",
+    "seen": "2026-09-21"
+  },
+  "Heathcoat Fabrics::graduate development programme": {
+    "title": "Graduate Development Programme",
+    "location": "Tiverton",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": null,
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/994/heathcoat-fabrics/graduate-job/53875/graduate-development-programme",
+    "company": "Heathcoat Fabrics",
+    "seen": "2026-09-21"
+  },
+  "Arcadis::graduate geo-environmental consultant": {
+    "title": "Graduate Geo-Environmental Consultant",
+    "location": "Birmingham, Cardiff and Cambridge",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-11-06",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/409/arcadis/graduate-job/82593/graduate-geo-environmental-consultant",
+    "company": "Arcadis",
+    "seen": "2026-09-21"
+  },
+  "Greencore::food technology graduate programme": {
+    "title": "Food Technology Graduate Programme",
+    "location": "Various locations",
+    "discipline": "Chemical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-12-01",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/654/greencore/graduate-job/82737/food-technology-graduate-programme",
+    "company": "Greencore",
+    "seen": "2026-09-21"
+  },
+  "Babcock::chemical and process engineering undergraduate placement year": {
+    "title": "Chemical and Process Engineering Undergraduate Placement Year",
+    "location": "Bristol, Warrington",
+    "discipline": "Chemical",
+    "kind": "placement",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/work-placement-internship/83044/chemical-and-process-engineering-undergraduate-placement-year",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Thames Water::process scientist placement": {
+    "title": "Process Scientist Placement",
+    "location": "Hampton (London), Walton-on-Thames (Surrey)",
+    "discipline": "Chemical",
+    "kind": "placement",
+    "opens": null,
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/877/thames-water/work-placement-internship/83652/process-scientist-placement",
+    "company": "Thames Water",
+    "seen": "2026-09-21"
+  },
+  "Babcock::science and analytical chemistry undergraduate placement year": {
+    "title": "Science and Analytical Chemistry Undergraduate Placement Year",
+    "location": "Devonport (Plymouth)",
+    "discipline": "Chemical",
+    "kind": "placement",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/work-placement-internship/83027/science-and-analytical-chemistry-undergraduate-placement-year",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "AWE::nuclear materials - year in industry": {
+    "title": "Nuclear Materials - Year in Industry",
+    "location": "Aldermaston (Reading)",
+    "discipline": "Mechanical, Electrical",
+    "kind": "placement",
+    "opens": "2027-08-01",
+    "deadline": "2026-10-31",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/61/awe/work-placement-internship/83704/nuclear-materials-year-in-industry",
+    "company": "AWE",
+    "seen": "2026-09-21"
+  },
+  "AWE::conventional safety specialist – year in industry": {
+    "title": "Conventional Safety Specialist – Year in Industry",
+    "location": "Aldermaston (Reading)",
+    "discipline": "Engineering",
+    "kind": "placement",
+    "opens": null,
+    "deadline": "2026-10-31",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/61/awe/work-placement-internship/83693/conventional-safety-specialist-year-in-industry",
+    "company": "AWE",
+    "seen": "2026-09-21"
+  },
+  "AWE::nuclear safety assessment specialist – year in industry": {
+    "title": "Nuclear Safety Assessment Specialist – Year in Industry",
+    "location": "Aldermaston (Reading)",
+    "discipline": "Nuclear",
+    "kind": "placement",
+    "opens": null,
+    "deadline": "2026-10-31",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/61/awe/work-placement-internship/83691/nuclear-safety-assessment-specialist-year-in-industry",
+    "company": "AWE",
+    "seen": "2026-09-21"
+  },
+  "AWE::production – year in industry": {
+    "title": "Production – Year in Industry",
+    "location": "Aldermaston (Reading)",
+    "discipline": "Mechanical, Electrical",
+    "kind": "placement",
+    "opens": "2027-08-01",
+    "deadline": "2026-10-31",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/61/awe/work-placement-internship/83697/production-year-in-industry",
+    "company": "AWE",
+    "seen": "2026-09-21"
+  },
+  "AWE::engineering – year in industry": {
+    "title": "Engineering – Year in Industry",
+    "location": "Aldermaston (Reading), Burghfield (Berkshire)",
+    "discipline": "Chemical",
+    "kind": "placement",
+    "opens": null,
+    "deadline": "2026-10-31",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/61/awe/work-placement-internship/83682/engineering-year-in-industry",
+    "company": "AWE",
+    "seen": "2026-09-21"
+  },
+  "Zurich::actuarial (life insurance) summer internship 2027": {
+    "title": "Actuarial (Life Insurance) Summer Internship 2027",
+    "location": "Swindon (Wiltshire)",
+    "discipline": "Business",
+    "kind": "summer",
+    "opens": null,
+    "deadline": "2026-10-18",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/432/zurich/work-placement-internship/83217/actuarial-life-insurance-summer-internship-2027",
+    "company": "Zurich",
+    "seen": "2026-09-21"
+  },
+  "Zurich::sustainable energy summer internship 2027": {
+    "title": "Sustainable Energy Summer Internship 2027",
+    "location": "London",
+    "discipline": "Energy",
+    "kind": "summer",
+    "opens": "2027-06-01",
+    "deadline": "2026-10-18",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/432/zurich/work-placement-internship/83220/sustainable-energy-summer-internship-2027",
+    "company": "Zurich",
+    "seen": "2026-09-21"
+  },
+  "Babcock::systems engineering undergraduate summer internship": {
+    "title": "Systems Engineering Undergraduate Summer Internship",
+    "location": "Bristol (Hybrid)",
+    "discipline": "Mechanical",
+    "kind": "summer",
+    "opens": "2027-06-01",
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/work-placement-internship/83039/systems-engineering-undergraduate-summer-internship",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Arup::graduate infrastructure mechanical engineer": {
+    "title": "Graduate Infrastructure Mechanical Engineer",
+    "location": "Cardiff and Birmingham",
+    "discipline": "Mechanical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/169/arup/graduate-job/83635/graduate-infrastructure-mechanical-engineer",
+    "company": "Arup",
+    "seen": "2026-09-21"
+  },
+  "Babcock::transversal systems engineering graduate programme": {
+    "title": "Transversal Systems Engineering Graduate Programme",
+    "location": "Bristol and Hawthorn (Wiltshire)",
+    "discipline": "Nuclear, Electrical, Mechanical, Naval, Environmental, Systems",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83109/transversal-systems-engineering-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Babcock::radioactive waste management graduate programme": {
+    "title": "Radioactive Waste Management Graduate Programme",
+    "location": "Newbury (Berkshire), Bristol and Warrington",
+    "discipline": "Chemistry, Physics, Materials, Environmental, Nuclear, Biology",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83100/radioactive-waste-management-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Babcock::quality graduate programme": {
+    "title": "Quality Graduate Programme",
+    "location": "Devonport (Plymouth)",
+    "discipline": "Naval, Aerospace, Materials, Mechanical, Systems, Electronic, Nuclear",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83097/quality-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Babcock::systems engineering graduate programme": {
+    "title": "Systems Engineering Graduate Programme",
+    "location": "Rosyth (Dunfermline, Scotland), Plymouth, Bristol and Walsall (West Midlands)",
+    "discipline": "STEM",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-20",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/113/babcock-international-group/graduate-job/83107/systems-engineering-graduate-programme",
+    "company": "Babcock",
+    "seen": "2026-09-21"
+  },
+  "Oliver Wyman::data & analytics industrial placement 2027 (12 months)": {
+    "title": "Data & Analytics Industrial Placement 2027 (12 months)",
+    "location": "Newcastle upon Tyne (Hybrid)",
+    "discipline": "Business",
+    "kind": "placement",
+    "opens": null,
+    "deadline": "2026-10-30",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/1115/oliver-wyman/work-placement-internship/82573/data-and-analytics-industrial-placement-2027-12-months",
+    "company": "Oliver Wyman",
+    "seen": "2026-09-21"
+  },
+  "Oliver Wyman::data & analytics summer internship 2027": {
+    "title": "Data & Analytics Summer Internship 2027",
+    "location": "Newcastle upon Tyne (Hybrid)",
+    "discipline": "Business",
+    "kind": "summer",
+    "opens": null,
+    "deadline": "2027-01-15",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/1115/oliver-wyman/work-placement-internship/83481/data-and-analytics-summer-internship-2027",
+    "company": "Oliver Wyman",
+    "seen": "2026-09-21"
+  },
+  "Barclays::quantitative finance associate off cycle internship programme 2027": {
+    "title": "Quantitative Finance Associate Off Cycle Internship Programme 2027",
+    "location": "London",
+    "discipline": "Software",
+    "kind": "internship",
+    "opens": null,
+    "deadline": "2026-09-25",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/180/barclays/work-placement-internship/83456/quantitative-finance-associate-off-cycle-internship-programme-2027",
+    "company": "Barclays",
+    "seen": "2026-09-21"
+  },
+  "Barclays::2027 technology developer summer internship programme": {
+    "title": "2027 Technology Developer Summer Internship Programme",
+    "location": "Wilmington (Delaware), Whippany (New Jersey), Knutsford (Cheshire), Glasgow, Northampton, London",
+    "discipline": "Software",
+    "kind": "summer",
+    "opens": null,
+    "deadline": "2026-09-28",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/180/barclays/work-placement-internship/83520/2027-technology-developer-summer-internship-programme",
+    "company": "Barclays",
+    "seen": "2026-09-21"
+  },
+  "AWE::logistics & transport – year in industry": {
+    "title": "Logistics & Transport – Year in Industry",
+    "location": "Aldermaston (Reading)",
+    "discipline": "Mechanical, Electrical",
+    "kind": "placement",
+    "opens": "2027-08-01",
+    "deadline": "2026-10-31",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/61/awe/work-placement-internship/83702/logistics-and-transport-year-in-industry",
+    "company": "AWE",
+    "seen": "2026-09-21"
+  },
+  "Arup::graduate electrical engineer - energy": {
+    "title": "Graduate Electrical Engineer - Energy",
+    "location": "London",
+    "discipline": "Electrical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/169/arup/graduate-job/83610/graduate-electrical-engineer-energy",
+    "company": "Arup",
+    "seen": "2026-09-21"
+  },
+  "Zurich::sustainable energy graduate development programme 2027": {
+    "title": "Sustainable Energy Graduate Development Programme 2027",
+    "location": "London",
+    "discipline": "Business",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-10-18",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/432/zurich/graduate-job/83204/sustainable-energy-graduate-development-programme-2027",
+    "company": "Zurich",
+    "seen": "2026-09-21"
+  },
+  "ScottishPower::engineering graduate": {
+    "title": "Engineering Graduate",
+    "location": "Central and Southern Scotland, Northwest England and Mid and North Wales",
+    "discipline": "Electrical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2027-01-03",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/334/scottishpower/graduate-job/83781/engineering-graduate",
+    "company": "ScottishPower",
+    "seen": "2026-09-21"
+  },
+  "Tata Consultancy Services (TCS)::junior engineer": {
+    "title": "Junior Engineer",
+    "location": "Wokingham (Berkshire)",
+    "discipline": "Electrical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/727/tata-consultancy-services-tcs/graduate-job/82910/junior-engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "seen": "2026-09-21"
+  },
+  "RES Group::development graduate": {
+    "title": "Development Graduate",
+    "location": "Kings Langley (Hertfordshire) (Hybrid)",
+    "discipline": "Business",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-10-02",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/1439/res-group/graduate-job/83370/development-graduate",
+    "company": "RES Group",
+    "seen": "2026-09-21"
+  },
+  "United Utilities::graduate electrical engineer": {
+    "title": "Graduate Electrical Engineer",
+    "location": "Lingley Mere (Warrington)",
+    "discipline": "Electrical",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "2026-10-21",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/77/united-utilities/graduate-job/83782/graduate-electrical-engineer",
+    "company": "United Utilities",
+    "seen": "2026-09-21"
+  },
+  "Arup::graduate power systems engineer - hv networks": {
+    "title": "Graduate Power Systems Engineer - HV Networks",
+    "location": "Manchester and Birmingham",
+    "discipline": "Electrical",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/169/arup/graduate-job/83624/graduate-power-systems-engineer-hv-networks",
+    "company": "Arup",
+    "seen": "2026-09-21"
+  },
+  "PwC::graduate technology and ai": {
+    "title": "Graduate Technology and AI",
+    "location": "Various locations",
+    "discipline": "Software",
+    "kind": "graduate",
+    "opens": "2027-09-01",
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/478/pwc/graduate-job/83578/graduate-technology-and-ai",
+    "company": "PwC",
+    "seen": "2026-09-21"
+  },
+  "Barclays::2027 technology developer expert graduate programme": {
+    "title": "2027 Technology Developer Expert Graduate Programme",
+    "location": "Wilmington (Delaware)",
+    "discipline": "Software",
+    "kind": "graduate",
+    "opens": null,
+    "deadline": "2026-09-28",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/180/barclays/graduate-job/83501/2027-technology-developer-expert-graduate-programme",
+    "company": "Barclays",
+    "seen": "2026-09-21"
+  },
+  "Softwire::graduate consultant software engineer 2027": {
+    "title": "Graduate Consultant Software Engineer 2027",
+    "location": "London, Cambridge and Manchester",
+    "discipline": "Software",
+    "kind": "graduate",
+    "opens": "2027-03-01",
+    "deadline": "rolling",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/830/softwire/graduate-job/83514/graduate-consultant-software-engineer-2027",
+    "company": "Softwire",
+    "seen": "2026-09-21"
+  },
+  "Barclays::2027 technology developer graduate programme": {
+    "title": "2027 Technology Developer Graduate Programme",
+    "location": "Knutsford (Cheshire), Glasgow, Northampton, Whippany (New Jersey)",
+    "discipline": "Software",
+    "kind": "graduate",
+    "opens": "2027-08-01",
+    "deadline": "2026-09-25",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/180/barclays/graduate-job/83369/2027-technology-developer-graduate-programme",
+    "company": "Barclays",
+    "seen": "2026-09-21"
+  },
+  "Wood::subsea pipeline engineering placement": {
+    "title": "Subsea Pipeline Engineering Placement",
+    "location": "Staines-Upon-Thames (Middlesex)",
+    "discipline": "Mechanical, Civil",
+    "kind": "placement",
+    "opens": "2027-09-01",
+    "deadline": null,
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/787/wood/work-placement-internship/83215/subsea-pipeline-engineering-placement",
+    "company": "Wood",
+    "seen": "2026-09-21"
+  },
+  "MI5, MI6 and GCHQ::cyber insights summer school (ciss)": {
+    "title": "Cyber Insights Summer School (CISS)",
+    "location": "Lancashire",
+    "discipline": "Software",
+    "kind": "summer",
+    "opens": "2027-06-01",
+    "deadline": "2026-10-08",
+    "stages": "",
+    "link": "https://www.gradcracker.com/hub/1345/mi5-mi6-and-gchq/work-placement-internship/82908/cyber-insights-summer-school-ciss",
+    "company": "MI5, MI6 and GCHQ",
+    "seen": "2026-09-21"
   }
 }
