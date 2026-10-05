@@ -2,12 +2,14 @@
   {
     "name": "AtkinsRealis",
     "url": "https://careers.atkinsrealis.com/en/jobs",
-    "js": true
+    "js": true,
+    "found": "https://careers.atkinsrealis.com/en/jobs?location=United+Kingdom&is_early_careers=true"
   },
   {
     "name": "Jacobs",
     "url": "https://careers.jacobs.com/en_US/careers/EarlyCareers",
-    "js": true
+    "js": true,
+    "found": "https://careers.jacobs.com/en_US/careers/SearchJobs"
   },
   {
     "name": "Shell",
